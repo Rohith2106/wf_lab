@@ -54,8 +54,6 @@ function App() {
 }
 
 export default App;
-
-
 ```
 
 2. Develop a weather application that fetches weather data from an API based on user input (e.g., city name) and displays the weather forecast.
@@ -248,6 +246,7 @@ function App() {
 }
 
 export default App;
+```
 
 3. Build a basic calculator that performs arithmetic operations like addition, subtraction, multiplication, and division.
 
