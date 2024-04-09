@@ -1,21 +1,12 @@
 2.Weather api
-
-```
 npm install axios react-loader-spinner @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
-```
 
 5.Food recipe
-
-```
 npm install -D tailwindcss
 npx tailwindcss init
-```
 
 12 . currency convertor
-
-```
 npm install axios
 npm install react-dropdown
 npm install react-icons
-```
 
