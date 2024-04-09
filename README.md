@@ -201,7 +201,7 @@ export default GfGWeatherApp;
 3. Build a basic calculator that performs arithmetic operations like addition, subtraction, multiplication, and division.
 
 
-```
+```ruby
 import React, { useState } from "react";
 import "./App.css";
 
